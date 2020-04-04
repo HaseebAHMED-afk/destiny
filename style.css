@@ -1,0 +1,25 @@
+        body {
+            background-color: bisque;
+            color: darkgoldenrod;
+        }
+        hr{
+            border-style: dotted none none none;
+            border-color: coral;
+            width: 20%;
+            border-width: 3.5px  ;
+        }
+        img{
+            height: 200px;
+            border-radius: 100px;
+        }
+        h1
+        {
+            color: chocolate;
+        }
+        h2{
+            color: chocolate;
+        }
+        h3
+        {
+            color: chocolate;
+        }
